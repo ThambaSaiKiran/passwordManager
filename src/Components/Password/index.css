@@ -1,0 +1,106 @@
+.bg {
+  padding: 20px;
+  background-color: #9ba9eb;
+  height: 100vh;
+  background-size: cover;
+  font-family: Roboto;
+}
+.logo {
+  height: 30px;
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+.bg1 {
+  background-color: #5763a5;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  height: 42%;
+}
+
+.bg11 {
+  background-color: #454f84;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+}
+
+.formLogos {
+  height: 30px;
+  width: 30px;
+  margin-right: 5px;
+  background-color: white;
+}
+
+.pmImg {
+  height: 30vh;
+}
+
+.bg2 {
+  background-color: #5763a5;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  height: 50%;
+  margin-top: 10px;
+  color: white;
+}
+
+.bg21 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.bg211 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.search {
+  height: 30px;
+}
+
+.h1 {
+  font-size: 20px;
+  color: white;
+}
+
+.noPass {
+  height: 50%;
+  width: 190px;
+}
+
+label {
+  font-size: 15px;
+}
+.noPassCont {
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.bg212 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.len {
+  margin-left: 10px;
+}

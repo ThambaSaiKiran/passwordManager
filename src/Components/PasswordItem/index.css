@@ -1,0 +1,27 @@
+.stars {
+  height: 10px;
+  width: 50px;
+}
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: 10px;
+}
+
+.del {
+  margin-top: 10px;
+  height: 20px;
+  width: 20px;
+}
+
+.itemIcon {
+  font-size: 12px;
+  text-align: center;
+  margin-top: 10px;
+  height: 40px;
+  width: 40px;
+  background-color: #10b981;
+  border-radius: 30px;
+  margin-right: 5px;
+}
